@@ -1,4 +1,5 @@
 """Get Information on your Folding@Home Clients."""
+
 import asyncio
 from asyncio import CancelledError
 

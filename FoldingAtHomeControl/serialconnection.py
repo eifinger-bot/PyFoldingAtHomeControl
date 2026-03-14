@@ -1,4 +1,5 @@
 """Serial Connection for FoldingAtHomeControl."""
+
 import asyncio
 import logging
 from asyncio import Future, Lock, StreamReader, StreamWriter

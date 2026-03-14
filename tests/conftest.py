@@ -1,4 +1,5 @@
 """Fixtures for tests."""
+
 import asyncio
 from asyncio.streams import StreamReader
 

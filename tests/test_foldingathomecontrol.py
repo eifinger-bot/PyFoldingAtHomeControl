@@ -1,4 +1,5 @@
 """Tests for foldingathomecontrol"""
+
 import asyncio
 
 try:
